@@ -105,12 +105,12 @@ Investigated security and infrastructure incidents across an enterprise AWS envi
 ### 🖥️ [SRE Homelab Portfolio](https://github.com/FabianCH20/sre-homelab-portfolio)
 End-to-end SRE homelab: server provisioning, OS hardening, container orchestration and monitoring/alerting pipelines, fully documented as a portfolio.
 
-**Stack:** Rocky Linux / AlmaLinux 9 • Podman • Kubernetes • Ansible
+**Stack:** Ubuntu • Docker • Kubernetes
 
 ### ⚙️ [SRE-AS-A-SERVICE Homelab](https://github.com/FabianCH20/sre-as-a-service)
 Reproducible, auditable infrastructure-as-code homelab — provisioning and managing resources on demand as a self-service SRE platform.
 
-**Stack:** Terraform • AWS • CI/CD
+**Stack:** Podman • Zabbix • Hardening
 
 <div align="center"><i>More labs and write-ups live in the pinned repositories above ⬆️</i></div>
 
