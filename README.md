@@ -137,6 +137,9 @@ krikox@matrix:~$ ls ./sadservers_labs/
 #### 📄 [SAD-Server-Lab-Salta-Docker-container-won-t-start-](https://github.com/FabianCH20/SAD-Server-Lab-Salta-Docker-container-won-t-start-/blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary of this scenario and how it was diagnosed/fixed -->
 
+#### 📄 [Sad-Servers----Bilbao-Basic-Kubernetes-Problems-Solution](https://github.com/FabianCH20/Sad-Servers----Bilbao-Basic-Kubernetes-Problems-Solution/blob/main/README.md)
+<!-- TODO: Add a one-paragraph summary of this scenario and how it was diagnosed/fixed -->
+
 <!-- TODO: Add more solved SadServers scenarios here, same format:
 #### 📄 [Playbook-SADSERVER-ScenarioName](REPO_URL)
 One-paragraph summary of the incident and how it was diagnosed/fixed.
