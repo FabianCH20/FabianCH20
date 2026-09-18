@@ -130,7 +130,11 @@ krikox@matrix:~$ ls ./sadservers_labs/
 
 #### 📄 [Playbook-SADSERVER-SaintJohn](https://github.com/FabianCH20/playbook-saint-john-bad-log/blob/main/README.md)
 
+
 #### 📄 [Sad Servers -> "Saskatoon": counting IPs.](https://github.com/FabianCH20/Sad-Servers---Saskatoon-counting-IPs./blob/main/README.md)
+<!-- TODO: Add a one-paragraph summary of this scenario and how it was diagnosed/fixed -->
+
+#### 📄 [SAD-Server-Lab-Salta-Docker-container-won-t-start-](https://github.com/FabianCH20/SAD-Server-Lab-Salta-Docker-container-won-t-start-/blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary of this scenario and how it was diagnosed/fixed -->
 
 <!-- TODO: Add more solved SadServers scenarios here, same format:
