@@ -130,6 +130,7 @@ krikox@matrix:~$ ls ./sadservers_labs/
 
 #### 📄 [Playbook-SADSERVER-SaintJohn](https://github.com/FabianCH20/playbook-saint-john-bad-log/blob/main/README.md)
 
+
 #### 📄 [Sad Servers -> "Saskatoon": counting IPs.](https://github.com/FabianCH20/Sad-Servers---Saskatoon-counting-IPs./blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary of this scenario and how it was diagnosed/fixed -->
 
@@ -165,6 +166,9 @@ krikox@matrix:~$ ls ./cyberdefenders_investigations/
 <!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
 
 #### 🔒 [GrabThePhisher---LAB-Solution](https://github.com/FabianCH20/GrabThePhisher---LAB-Solution/blob/main/README.md)
+<!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
+
+#### 🔒 [Cyber-Defenders-Ramnit-Lab-Solution](https://github.com/FabianCH20/Cyber-Defenders-Ramnit-Lab-Solution/blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
 
 <!-- TODO: Add more CyberDefenders investigations here, same format:
