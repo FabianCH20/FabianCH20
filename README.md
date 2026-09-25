@@ -174,6 +174,9 @@ krikox@matrix:~$ ls ./cyberdefenders_investigations/
 #### 🔒 [T1584.004-Lab---Solution](https://github.com/FabianCH20/T1584.004-Lab---Solution/blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
 
+#### 🔒 [RedLine-Lab-CyberDefenders-Blue-Team-Lab-Solution](https://github.com/FabianCH20/RedLine-Lab-CyberDefenders-Blue-Team-Lab-Solution/blob/main/README.md)
+<!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
+
 <!-- TODO: Add more CyberDefenders investigations here, same format:
 #### 🔒 [Investigation-Name](REPO_URL)
 One-paragraph summary of the investigation.
