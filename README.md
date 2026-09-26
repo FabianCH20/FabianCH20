@@ -180,6 +180,9 @@ krikox@matrix:~$ ls ./cyberdefenders_investigations/
 #### 🔒 [Reveal-CyberDefenders-Blue-Team-Lab-Solution](https://github.com/FabianCH20/Reveal-CyberDefenders-Blue-Team-Lab-Solution/blob/main/README.md)
 <!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
 
+#### 🔒 [CyberDefenders-Volatility-Traces-Solution](https://github.com/FabianCH20/CyberDefenders-Volatility-Traces-Solution/blob/main/README.md)
+<!-- TODO: Add a one-paragraph summary — artifact/log analyzed, technique or tool used, and key finding/verdict -->
+
 <!-- TODO: Add more CyberDefenders investigations here, same format:
 #### 🔒 [Investigation-Name](REPO_URL)
 One-paragraph summary of the investigation.
